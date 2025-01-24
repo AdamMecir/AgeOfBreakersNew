@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7423419952339222910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6800416736862875047}
+  - component: {fileID: 1434372208859273130}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6800416736862875047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7423419952339222910}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11.244625, y: 8.135758, z: 0.113440216}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1434372208859273130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7423419952339222910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fadb747b6ddb4eb0b2408635bdd48fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  totalBreakableBlocks: 0
+  nextSceneName: GameSceneLVL2
+  sceneLoader: {fileID: 0}
+  warriorsParent: {fileID: 3088479057246028320, guid: 615b2a76dae3647dd8dc1ac2402fddc9, type: 3}
+  archersParent: {fileID: 1264232970887537241, guid: e264ae846ada640b3a6c42c59cedbcea, type: 3}
+  tanksParent: {fileID: 7535780185207626737, guid: 1e6b2bb2d8723471186d3504fa97b3a3, type: 3}
+  coinsParent: {fileID: 3065956566176561966, guid: b0ed561e8f51c4c78a445d21cb692134, type: 3}
+  particleParent: {fileID: 3570914885220197561, guid: 189e42cef6a5d44a7a90db8512cd7f2f, type: 3}
+  coinParticleParent: {fileID: 2141244111323783287, guid: 45bb69dff0d9a43909b81863c6c5348a, type: 3}
+  warriorPrefab: {fileID: 6348997896689111776, guid: ca3493f094d9c4b9b844863e236a815e, type: 3}
+  warriorObjectPool: []
+  archerPrefab: {fileID: 5888339162296273300, guid: f6530f812062d48ee85057e76b8939a7, type: 3}
+  archerObjectPool: []
+  tankPrefab: {fileID: 2384177010953364970, guid: a074645fb01ab4d1c9ce6466f9e6f480, type: 3}
+  tankObjectPool: []
+  coinPrefab: {fileID: 1717559307931792637, guid: c99de4de3cd704b349cd0bcd767a3c83, type: 3}
+  coinObjectPool: []
+  particlePrefab: {fileID: 7028120101944777837, guid: cdebc7398fac44b55ab3f23dcefed4e9, type: 3}
+  particleCoinPrefab: {fileID: 4310925838227441791, guid: 6907256819a5443b1b2a12d008c495eb, type: 3}
+  WarriorCount: 2
+  ArcherCount: 4
+  TankCount: 3
+  CoinCount: 0
+  Seed: 420
+  poolSize: 90

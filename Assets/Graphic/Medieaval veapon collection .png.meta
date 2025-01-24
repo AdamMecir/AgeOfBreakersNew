@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 0e3c35a005e7b104ea8f0c1af68275de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieaval veapon collection _0
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 6021
+        width: 1330
+        height: 1786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc54e9449be12498cfb0a32e8c2fad
+      internalID: -758999425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _1
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 6021
+        width: 1033
+        height: 1861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2b94d7699e30438b7f95a1b0df1e5
+      internalID: -379918751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _2
+      rect:
+        serializedVersion: 2
+        x: 4910
+        y: 6863
+        width: 2266
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e757ac036eaaf45bf0b2dbea825f48
+      internalID: -41924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _3
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3852
+        width: 989
+        height: 1778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef416d52dc902804f9a61e2a829d0b11
+      internalID: -2019037352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _4
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 3852
+        width: 1139
+        height: 1806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c2475459cab0f48be9940daeaa55c2
+      internalID: -2074301903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _5
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 4088
+        width: 424
+        height: 2238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b81b2c6e679a9e45b450a61775d2146
+      internalID: 1561969046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _6
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 4275
+        width: 175
+        height: 1835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c440386bdf0061049a70addd5cca2cc2
+      internalID: 1124918129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _7
+      rect:
+        serializedVersion: 2
+        x: 4763
+        y: 4165
+        width: 594
+        height: 2165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919291f4efd7794eb3db031c2af840d
+      internalID: 1694896068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _8
+      rect:
+        serializedVersion: 2
+        x: 5540
+        y: 4385
+        width: 204
+        height: 1644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8661cf674150641b217389514c7b1c
+      internalID: -519048747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _9
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 4369
+        width: 370
+        height: 1924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890dc3d4d65ecb84ba3bb1e1520723f3
+      internalID: 940440215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _10
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 4389
+        width: 211
+        height: 1640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc111934ec5abb544bb35f33168dd193
+      internalID: 554840920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _11
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 4373
+        width: 399
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dcf16a89a8ade41b9a37d6251d379c
+      internalID: -1144048509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _12
+      rect:
+        serializedVersion: 2
+        x: 7795
+        y: 4375
+        width: 220
+        height: 1654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e180ba4856bdb469cd7261d37363e1
+      internalID: -540478009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 560
+        width: 399
+        height: 2645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0838f3a0c1ecb4982d17eed0bcaeed
+      internalID: 205540399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _14
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 560
+        width: 399
+        height: 2588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d20574891dfb649853306b1bb47a3b
+      internalID: 1876293130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _15
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 560
+        width: 399
+        height: 2001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc11f68a2f188c946a4e0da55a3570fd
+      internalID: -1784985066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _16
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 535
+        width: 411
+        height: 2495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67915d7eae2645b4a98ceb0d225a9fd0
+      internalID: -1165454300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _17
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1947
+        width: 1241
+        height: 1526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b44ccac4e8b567458d26a1e289ca2f0
+      internalID: 1002507242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _18
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 1947
+        width: 993
+        height: 1258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462129eb9eecf34e82d99e1631e2306
+      internalID: 1352846976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _19
+      rect:
+        serializedVersion: 2
+        x: 7028
+        y: 1866
+        width: 938
+        height: 1644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4850f2f4c236f344ca918ba990d5de8a
+      internalID: -1347024371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _20
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 356
+        width: 1241
+        height: 1278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0460048d4c7e774e8592d6896d02728
+      internalID: -1178419781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _21
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 478
+        width: 993
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac0cc0154a35dd49a94bebeee078d3c
+      internalID: 623245352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieaval veapon collection _22
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 478
+        width: 993
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe80c4493eb7674aaadae928fcb47b7
+      internalID: 180406149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Medieaval veapon collection _0: -758999425
+      Medieaval veapon collection _1: -379918751
+      Medieaval veapon collection _10: 554840920
+      Medieaval veapon collection _11: -1144048509
+      Medieaval veapon collection _12: -540478009
+      Medieaval veapon collection _13: 205540399
+      Medieaval veapon collection _14: 1876293130
+      Medieaval veapon collection _15: -1784985066
+      Medieaval veapon collection _16: -1165454300
+      Medieaval veapon collection _17: 1002507242
+      Medieaval veapon collection _18: 1352846976
+      Medieaval veapon collection _19: -1347024371
+      Medieaval veapon collection _2: -41924
+      Medieaval veapon collection _20: -1178419781
+      Medieaval veapon collection _21: 623245352
+      Medieaval veapon collection _22: 180406149
+      Medieaval veapon collection _3: -2019037352
+      Medieaval veapon collection _4: -2074301903
+      Medieaval veapon collection _5: 1561969046
+      Medieaval veapon collection _6: 1124918129
+      Medieaval veapon collection _7: 1694896068
+      Medieaval veapon collection _8: -519048747
+      Medieaval veapon collection _9: 940440215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
